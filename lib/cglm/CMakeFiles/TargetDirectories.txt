@@ -1,0 +1,9 @@
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/cglm.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/package.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/package_source.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/edit_cache.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/rebuild_cache.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/list_install_components.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/install.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/install/local.dir
+/Users/andrewkuang/Downloads/☕Other🌱/CplusCraft/lib/cglm/CMakeFiles/install/strip.dir
